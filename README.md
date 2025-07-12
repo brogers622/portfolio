@@ -1,2 +1,2 @@
 # portfolio
-An archive of projects Bryce has worked on
+A collection of the projects displayed in Bryce's portfolio https://brogers622.github.io/
